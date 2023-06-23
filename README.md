@@ -15,7 +15,7 @@ I'm a web developer and embedded developer, I'm studing Analysis and systems dev
 #### Contact
 - 👔 Email: allancgarcia@outlook.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceluckbr&layout=compact&bg_color=00000000&color=FFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceluckbr&layout=compact&bg_color=00000000&text_color=FFFFF)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceluckbr&show_icons=true&bg_color=00000000)
 <a href="https://app.daily.dev/iceluckbr"><img src="https://api.daily.dev/devcards/8e5f6cea0ce54cbd829cf3161d0124cb.png?r=tpi" width="400" alt="Allan C  Garcia's Dev Card"/></a>
 
