@@ -15,7 +15,7 @@ I'm a web developer and embedded developer, I'm studing Analysis and systems dev
 #### Contact
 - 👔 Email: allancgarcia@outlook.com
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICELUCKBR&show_icons=true&theme=radical)
 <a href="https://app.daily.dev/iceluckbr"><img src="https://api.daily.dev/devcards/8e5f6cea0ce54cbd829cf3161d0124cb.png?r=tpi" width="400" alt="Allan C  Garcia's Dev Card"/></a>
 
 <!--
@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
