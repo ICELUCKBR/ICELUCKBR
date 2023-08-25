@@ -1,22 +1,30 @@
-#### Hi there, I'm Allan Garcia 👋
+# ALLAN C GARCIA
 
-### About
-I'm a web developer and embedded developer, I'm studing Analysis and systems development.
+Formado em mecatrônica e eletrônica automotiva, cursando analíse e desenvolvimento de sistemas.
+Atualmente trabalho na area de manutenção 
+Buscando sempre ampliar meu conhecimento no ramo de tecnologia com Internet Of Things ou automação e comunicação industrial.
 
-
-### Current stack
-- 🧱 Main Language: `Javascript`, `C`
-- 🏗️ Backend: `Nodejs`,`MySQL`
-- 🎨 Frontend: `HTML5`,`CSS`,`Javascript`
-- 🎉 Layout Design: `Figma`,`Adobe XD`
-- 📦️ version code control: `Git`,`Github`
-- 🔨 Tools: `vsCode`,`Arduino`,`PlataformIO`,`MySQL`
+Conhecimentos de linguagens de programação em C, Javascript, Java, C++.
 
 
-- 👔 Email: allancgarcia@outlook.com
+### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/Iceluck)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceluckbr&layout=compact&bg_color=00000000&text_color=FFFFF)
-![iceluck's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceluckbr&show_icons=true&bg_color=00000000)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20LinkedIn-30A3DC?style=for-the-badge)](https://www.linkedin.com/in/allancgarcia/)
+
+
+### Habilidades
+![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
+![ANGULAR](https://img.shields.io/badge/ANGULAR-000?style=for-the-badge&logo=angular)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=CSS3)
+![JS](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=Javascript&)
+![c](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&)
+![sql](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&)
+
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceluckbr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 <a href="https://app.daily.dev/iceluckbr"><img src="https://api.daily.dev/devcards/8e5f6cea0ce54cbd829cf3161d0124cb.png?r=tpi" width="300" alt="Allan C  Garcia's Dev Card"/></a>
 
 <!--
