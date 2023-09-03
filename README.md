@@ -9,6 +9,17 @@ Conhecimento de Internet of Things, sistemas embarcados e ambientações.
 Busco sempre poder prover a melhor forma de apresentação tanto para a visão clientes quanto para o desenvolvimento utilizando técnicas em clean code, versionamento em Git.
 
 
+#### English version
+
+Fullstack Jr Developer
+
+Creation of front-end applications such as management interfaces, sales websites, landing pages and interactive interfaces, focusing on using frameworks such as React Js and Angular, prototyping and UI/UX.
+Back-end development using Javascript, Node.Js, Python and Django, for the creation of different functionalities, creation of relational database analysis and modeling.
+Knowledge of Internet of Things, embedded systems and environments.
+
+I always seek to be able to provide the best form of presentation both for the customer view and for development using techniques in clean code, versioning in Git.
+
+
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/Iceluck)
 
@@ -16,13 +27,22 @@ Busco sempre poder prover a melhor forma de apresentação tanto para a visão c
 
 
 ### Habilidades
+
+##### Frontend
 ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
 ![ANGULAR](https://img.shields.io/badge/ANGULAR-000?style=for-the-badge&logo=angular)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=CSS3)
+
+##### Backend
 ![JS](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=Javascript&)
 ![c](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&)
-![sql](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&)
+![sql](https://img.shields.io/badge/SQLITE-000?style=for-the-badge&logo=Sqlite&)
+![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=Python&)
+
+##### Others
+![Figma](https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logo=Figma&)
+![Blender](https://img.shields.io/badge/BLENDER-000?style=for-the-badge&logo=Blender&)
 
 
 ### GitHub Stats
