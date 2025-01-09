@@ -53,7 +53,7 @@ Busco sempre poder prover a melhor forma de apresentação tanto para a visão c
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceluckbr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/ICELUCK.png" alt="Your Image Badge" />
 ### Others 
 <a href="https://app.daily.dev/iceluckbr"><img src="https://api.daily.dev/devcards/8e5f6cea0ce54cbd829cf3161d0124cb.png?r=tpi" width="300" alt="Allan C  Garcia's Dev Card"/></a>
 <!--
