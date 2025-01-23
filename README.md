@@ -31,36 +31,26 @@ Busco sempre poder prover a melhor forma de apresentação tanto para a visão c
 #
 ### My skills
 
-### Languages
+## Languages
 ![Javascript](https://img.shields.io/badge/-yellow?style=plastic&logo=Javascript&logoSize=auto&label=Javascript)
 ![Python](https://img.shields.io/badge/-blue?style=plastic&logo=Python&logoColor=blue&logoSize=auto&label=Python)
 ![C](https://img.shields.io/badge/-blue?style=plastic&logo=C&logoColor=white&logoSize=auto)
 ![C++](https://img.shields.io/badge/-blue?style=plastic&logo=C%2B%2B&logoSize=auto)
-## Learning other languages
+##### Learning other languages
 ![GOLang](https://img.shields.io/badge/-blue?style=plastic&logo=go&logoSize=auto&label=GoLang.)
 
-#### Frameworks
-![VUE.JS](https://img.shields.io/badge/-b?style=plastic&logo=Vue.js&logoSize=auto&label=VUE.JS)
-![React.JS](https://img.shields.io/badge/-blue?style=plastic&logo=React&logoSize=auto&label=React)
-![Angular](https://img.shields.io/badge/-red?style=plastic&logo=Angular&logoSize=auto&label=Angular)
-
-##### Backend
-![mySql](https://img.shields.io/badge/-blue?style=plastic&logo=MySQL&logoColor=white&logoSize=auto&label=SQL)
-### Embeeded Systems
-![Espressif](https://img.shields.io/badge/-red?style=plastic&logo=espressif&logoColor=red&logoSize=auto&label=ESP)
-![Raspberry](https://img.shields.io/badge/-red?style=plastic&logo=raspberrypi&logoColor=red&logoSize=auto&label=Raspberrypi)
-![Arduino](https://img.shields.io/badge/-blue?style=plastic&logo=arduino&logoColor=blue&logoSize=auto&label=Arduino)
-
-
-
-
+|  Frameworks | Embeeded Systems | Others|
+|:---:|:---:|:---:|
+|![VUE.JS](https://img.shields.io/badge/-b?style=plastic&logo=Vue.js&logoSize=auto&label=VUE.JS)|![Espressif](https://img.shields.io/badge/-red?style=plastic&logo=espressif&logoColor=red&logoSize=auto&label=ESP)|![mySql](https://img.shields.io/badge/-blue?style=plastic&logo=MySQL&logoColor=white&logoSize=auto&label=SQL)|
+|![React.JS](https://img.shields.io/badge/-blue?style=plastic&logo=React&logoSize=auto&label=React)|![Raspberry](https://img.shields.io/badge/-red?style=plastic&logo=raspberrypi&logoColor=red&logoSize=auto&label=Raspberrypi)|![Static Badge](https://img.shields.io/badge/-hide?logo=Android&label=Android)
+|![Angular](https://img.shields.io/badge/-red?style=plastic&logo=Angular&logoSize=auto&label=Angular)|![Arduino](https://img.shields.io/badge/-blue?style=plastic&logo=arduino&logoColor=blue&logoSize=auto&label=Arduino)|
 #
-##### Others
-![Static Badge](https://img.shields.io/badge/-orange?style=plastic&logo=Figma&logoSize=auto&label=Figma)
+##### Creative skills
+![Figma](https://img.shields.io/badge/-orange?style=plastic&logo=Figma&logoSize=auto&label=Figma)
 ![Blender](https://img.shields.io/badge/-orange?style=plastic&logo=Blender&logoSize=auto&label=Blender)
 ![Autocad](https://img.shields.io/badge/-black?style=plastic&logo=AutoCAD&logoSize=auto&label=AUTOCAD)
 #
-### GitHub Stats
+##### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceluckbr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true) 
 <!--
 **ICELUCKBR/ICELUCKBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
