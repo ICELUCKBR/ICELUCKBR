@@ -50,8 +50,6 @@ Busco sempre poder prover a melhor forma de apresentação tanto para a visão c
 ![Blender](https://img.shields.io/badge/-orange?style=plastic&logo=Blender&logoSize=auto&label=Blender)
 ![Autocad](https://img.shields.io/badge/-black?style=plastic&logo=AutoCAD&logoSize=auto&label=AUTOCAD)
 #
-##### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceluckbr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true) 
 <!--
 **ICELUCKBR/ICELUCKBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
